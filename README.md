@@ -1,2 +1,2 @@
-# MyLife
-It is story about my life / short CV
+!DOCTYPE HTML
+<p>My story</>
